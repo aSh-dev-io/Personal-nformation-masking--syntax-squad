@@ -39,9 +39,10 @@ python main.py
 ```
 
 ## 📊 Example (Before & After)
-| Input | Masked Output |
-|-------|---------------|
+| Input | 
+|-------|
 | <img width="270" height="148" alt="image" src="https://github.com/user-attachments/assets/a2774268-87ca-4405-ab54-e9a630c503df" />
+| Masked Output |
 | <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/0ed9c623-655a-436c-b773-ddc7908c4863" />
 
 
