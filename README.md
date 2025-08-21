@@ -41,7 +41,9 @@ python main.py
 ## 📊 Example (Before & After)
 | Input | Masked Output |
 |-------|---------------|
-| ![input](data/sample.png) | ![output](outputs/masked_sample.png) |
+| <img width="270" height="148" alt="image" src="https://github.com/user-attachments/assets/a2774268-87ca-4405-ab54-e9a630c503df" />
+| <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/0ed9c623-655a-436c-b773-ddc7908c4863" />
+
 
 ## 🔮 Future Work
 - Add phone number + address masking
