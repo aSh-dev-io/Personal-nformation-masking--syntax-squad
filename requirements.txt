@@ -1,0 +1,8 @@
+opencv-python
+pillow
+pytesseract
+spacy
+torch
+torchvision
+torchaudio
+transformers
